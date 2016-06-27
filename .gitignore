@@ -2,7 +2,7 @@
 ### Java template
 *.class
 out
-#.idea/
+.idea/misc.xml
 bin
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -16,3 +16,4 @@ bin
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+.idea/workspace.xml
